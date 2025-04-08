@@ -63,6 +63,13 @@ Models were assessed using:
 
 The project includes a Gradio-powered web interface for easy interaction with the trained model. Users can simulate input data and receive churn predictions instantly.
 
+
+You can interact with the deployed model on **Hugging Face Spaces** here:  
+🔗 [Customer Churn Prediction – Live Demo](https://huggingface.co/spaces/MosabAbd/Customer_Churn)
+
+Built with **Gradio**, this web app allows users to input customer attributes and receive real-time churn predictions with probability scores.
+
+
 ---
 
 ## 📂 Project Structure
