@@ -1,7 +1,3 @@
-Absolutely! Here's a professional and comprehensive GitHub project description you can use for your `README.md` or project overview section:
-
----
-
 # 📈 Telecom Customer Churn Prediction
 
 This project focuses on building a machine learning solution to predict customer churn in the telecommunications industry. Churn prediction enables businesses to proactively retain customers by identifying those at high risk of cancellation.
@@ -90,6 +86,3 @@ The project includes a Gradio-powered web interface for easy interaction with th
 - Strong focus on model interpretability and deployment readiness
 - A comparative study of classical ML models vs. ANN in churn prediction
 
----
-
-Feel free to customize this further with links to Colab notebooks, demo video, or the live app. Want a version tailored to non-technical readers too?
